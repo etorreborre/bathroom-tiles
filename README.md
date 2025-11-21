@@ -3,13 +3,15 @@ Here is the last push notification for that project:
 ```json
 {
   "kind": "project:branch:updated",
-  "link": "https://share.unison-lang.org/@etorreborre/bathroom-tiles/code/main/latest",
+  "link": "https://share.unison-lang.org/@etorreborre/bathroom-tiles/code/etorreborre/deploy-service-staged/latest",
   "payload": {
     "branch": {
-      "branchId": "B-2c539d30-1620-42b5-90e1-b83b5e01a756",
-      "branchName": "main",
-      "branchShortHand": "main",
-      "projectBranchShortHand": "@etorreborre/bathroom-tiles/main"
+      "branchContributorHandle": "etorreborre",
+      "branchContributorUserId": "U-0dd5d654-3c79-4f16-99d9-ce48d4cb03e5",
+      "branchId": "B-bc780e1b-2608-4a82-9ed7-245f18ff371b",
+      "branchName": "deploy-service-staged",
+      "branchShortHand": "@etorreborre/deploy-service-staged",
+      "projectBranchShortHand": "@etorreborre/bathroom-tiles/@etorreborre/deploy-service-staged"
     },
     "project": {
       "projectId": "P-a5784ab2-17f0-4e8e-ac2f-b2accd343c4b",
@@ -19,9 +21,9 @@ Here is the last push notification for that project:
       "projectSlug": "bathroom-tiles"
     }
   },
-  "eventId": "EVENT-fd20c8e3-1e17-4965-a8e4-84ecd25bdd44",
-  "occurredAt": "2025-11-21T18:24:00.965151Z",
-  "signed": "eyJhbGciOiJFZERTQSIsImtpZCI6ImoxYzNiMDBLSGVBMDEzcGI1NWQxSlg0U29xbWUxbENtREk5MFdBbVRxenMifQ.eyJkYXRhIjp7ImtpbmQiOiJwcm9qZWN0OmJyYW5jaDp1cGRhdGVkIiwibGluayI6Imh0dHBzOi8vc2hhcmUudW5pc29uLWxhbmcub3JnL0BldG9ycmVib3JyZS9iYXRocm9vbS10aWxlcy9jb2RlL21haW4vbGF0ZXN0IiwicGF5bG9hZCI6eyJicmFuY2giOnsiYnJhbmNoQ29udHJpYnV0b3JIYW5kbGUiOm51bGwsImJyYW5jaENvbnRyaWJ1dG9yVXNlcklkIjpudWxsLCJicmFuY2hJZCI6IkItMmM1MzlkMzAtMTYyMC00MmI1LTkwZTEtYjgzYjVlMDFhNzU2IiwiYnJhbmNoTmFtZSI6Im1haW4iLCJicmFuY2hTaG9ydEhhbmQiOiJtYWluIiwicHJvamVjdEJyYW5jaFNob3J0SGFuZCI6IkBldG9ycmVib3JyZS9iYXRocm9vbS10aWxlcy9tYWluIn0sInByb2plY3QiOnsicHJvamVjdElkIjoiUC1hNTc4NGFiMi0xN2YwLTRlOGUtYWMyZi1iMmFjY2QzNDNjNGIiLCJwcm9qZWN0T3duZXJIYW5kbGUiOiJldG9ycmVib3JyZSIsInByb2plY3RPd25lclVzZXJJZCI6IlUtMGRkNWQ2NTQtM2M3OS00ZjE2LTk5ZDktY2U0OGQ0Y2IwM2U1IiwicHJvamVjdFNob3J0SGFuZCI6IkBldG9ycmVib3JyZS9iYXRocm9vbS10aWxlcyIsInByb2plY3RTbHVnIjoiYmF0aHJvb20tdGlsZXMifX19LCJldmVudElkIjoiRVZFTlQtZmQyMGM4ZTMtMWUxNy00OTY1LWE4ZTQtODRlY2QyNWJkZDQ0Iiwib2NjdXJyZWRBdCI6IjIwMjUtMTEtMjFUMTg6MjQ6MDAuOTY1MTUxWiIsInRvcGljIjoicHJvamVjdDpicmFuY2g6dXBkYXRlZCJ9.CAqJJPTtNwSwYSCxebr6C_HjE0y_MQg-Uii7sxacQSvB5t7EbWt46jjf5ZYMgQD_TotN_a9FNcbT9JTc_hYCCg",
+  "eventId": "EVENT-7cbe7144-2762-4504-9518-5d5595baa1f5",
+  "occurredAt": "2025-11-21T13:52:09.076524Z",
+  "signed": "eyJhbGciOiJFZERTQSIsImtpZCI6ImoxYzNiMDBLSGVBMDEzcGI1NWQxSlg0U29xbWUxbENtREk5MFdBbVRxenMifQ.eyJkYXRhIjp7ImtpbmQiOiJwcm9qZWN0OmJyYW5jaDp1cGRhdGVkIiwibGluayI6Imh0dHBzOi8vc2hhcmUudW5pc29uLWxhbmcub3JnL0BldG9ycmVib3JyZS9iYXRocm9vbS10aWxlcy9jb2RlL2V0b3JyZWJvcnJlL2RlcGxveS1zZXJ2aWNlLXN0YWdlZC9sYXRlc3QiLCJwYXlsb2FkIjp7ImJyYW5jaCI6eyJicmFuY2hDb250cmlidXRvckhhbmRsZSI6ImV0b3JyZWJvcnJlIiwiYnJhbmNoQ29udHJpYnV0b3JVc2VySWQiOiJVLTBkZDVkNjU0LTNjNzktNGYxNi05OWQ5LWNlNDhkNGNiMDNlNSIsImJyYW5jaElkIjoiQi1iYzc4MGUxYi0yNjA4LTRhODItOWVkNy0yNDVmMThmZjM3MWIiLCJicmFuY2hOYW1lIjoiZGVwbG95LXNlcnZpY2Utc3RhZ2VkIiwiYnJhbmNoU2hvcnRIYW5kIjoiQGV0b3JyZWJvcnJlL2RlcGxveS1zZXJ2aWNlLXN0YWdlZCIsInByb2plY3RCcmFuY2hTaG9ydEhhbmQiOiJAZXRvcnJlYm9ycmUvYmF0aHJvb20tdGlsZXMvQGV0b3JyZWJvcnJlL2RlcGxveS1zZXJ2aWNlLXN0YWdlZCJ9LCJwcm9qZWN0Ijp7InByb2plY3RJZCI6IlAtYTU3ODRhYjItMTdmMC00ZThlLWFjMmYtYjJhY2NkMzQzYzRiIiwicHJvamVjdE93bmVySGFuZGxlIjoiZXRvcnJlYm9ycmUiLCJwcm9qZWN0T3duZXJVc2VySWQiOiJVLTBkZDVkNjU0LTNjNzktNGYxNi05OWQ5LWNlNDhkNGNiMDNlNSIsInByb2plY3RTaG9ydEhhbmQiOiJAZXRvcnJlYm9ycmUvYmF0aHJvb20tdGlsZXMiLCJwcm9qZWN0U2x1ZyI6ImJhdGhyb29tLXRpbGVzIn19fSwiZXZlbnRJZCI6IkVWRU5ULTdjYmU3MTQ0LTI3NjItNDUwNC05NTE4LTVkNTU5NWJhYTFmNSIsIm9jY3VycmVkQXQiOiIyMDI1LTExLTIxVDEzOjUyOjA5LjA3NjUyNFoiLCJ0b3BpYyI6InByb2plY3Q6YnJhbmNoOnVwZGF0ZWQifQ.9YtRzkKvdTqA72GrwGuvtlbhQ02n2HmQ0pzba9pcUIa-QqVOAZLlb22vZxgEm-dWHZcwck8UGa-UJXhDnV3dBQ",
   "topic": "project:branch:updated"
 }
 ```
